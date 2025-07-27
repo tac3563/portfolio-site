@@ -1,8 +1,12 @@
 export default function PageHeader() {
     return (
         <>
-            <h1>Tom Cox // Frontend Developer</h1>
-            <p>Driven by the opportunity to bring your design visions to life, I love crafting practical, purposeful, and seamless design solutions that build trust and bridge the gap between ideas and reality.</p>
+            <header className="page-header">
+                <h1>Tom Cox <span className='page-header-subtitle'>| Frontend Developer</span></h1>
+                <p>Mid-level Frontend Developer with 3+ years of experience building clean, accessible, and responsive
+                    interfaces. Passionate about learning modern tools and collaborating closely with designers to craft
+                    engaging user experiences.</p>
+            </header>
         </>
     )
 }

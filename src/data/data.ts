@@ -17,6 +17,6 @@ export const projects = [
     {
         name: "netflix-app",
         imagePath: "src/assets/netflix-app.png",
-        url: '#'
+        url: 'https://entertainment-web-app-delta-jet.vercel.app'
     },
 ];

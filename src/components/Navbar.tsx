@@ -11,17 +11,17 @@ export default function Navbar() {
 
                 <li>
                     <a href="https://www.linkedin.com/in/tom-cox-a2b357215/" target="_blank" rel="noopener noreferrer">
-                        <img src="src/assets/linkedin-icon.svg" alt=""/>
+                        <img src="../../public/assets/linkedin-icon.svg" alt=""/>
                     </a>
                 </li>
                 <li>
                     <a href="https://github.com/tac3563" target="_blank" rel="noopener noreferrer">
-                        <img src="src/assets/github-icon.svg" alt=""/>
+                        <img src="../../public/assets/github-icon.svg" alt=""/>
                     </a>
                 </li>
                 <li>
                     <a href="https://www.frontendmentor.io/profile/tac3563" target="_blank" rel="noopener noreferrer">
-                        <img width="20" height="20" src="src/assets/frontend-mentor-icon.svg" alt=""/>
+                        <img width="20" height="20" src="../../public/assets/frontend-mentor-icon.svg" alt=""/>
                     </a>
                 </li>
             </ul>
